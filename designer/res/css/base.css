@@ -1,0 +1,6 @@
+.player .panel-group {
+  margin: 0;
+}
+.player .panel-group .panel form p {
+  font-size: 14px;
+}
