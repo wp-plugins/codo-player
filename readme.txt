@@ -29,3 +29,7 @@ This section describes how to install the plugin and get it working.
 Simply, copy the snippet code generated. Go to "Posts -> New/Edit post". In an editor select "Text" view, paste the snippet code and save it. All ready!
 
 For more information visit http://codoplayer.com
+
+== Screenshots ==
+
+1. codo-player-logo-dark-bg.jpg
