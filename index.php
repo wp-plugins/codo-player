@@ -1,11 +1,11 @@
 <?php
 
     /*
-    Plugin Name: Codo Player
+    Plugin Name: Codo Player WP plugin
     Plugin URI: http://www.codoplayer.com/
     Description: A Prime HTML5 FLASH Web Video Player. Easy to setup, highly configurable, cross browser and plays on desktop, tablet and mobile. Now with a powerful VAST advertising plugin to monetise your video content!
     Author: Donato Software House
-    Version: 2.0
+    Version: 1.0
     Author URI: http://www.donatosoftwarehouse.com/
     */
 
