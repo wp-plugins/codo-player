@@ -32,4 +32,4 @@ For more information visit http://codoplayer.com
 
 == Screenshots ==
 
-1. codo-player-logo-dark-bg
+1. The view of the designer tool
