@@ -1,9 +1,9 @@
 === Plugin Name ===
 Codo Player WP plugin
-Contributors: none
-Tags: none
+Contributors: Donatas Cereska
+Tags: video player, html5 video, flash video, audio player, custom video player, video player generator, designer tool
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 3.9.1
 Stable tag: 4.3
 License: GPL type license with additional terms
 License URI: http://codoplayer.com/policy/license/free/
