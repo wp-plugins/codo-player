@@ -16,17 +16,15 @@ Easy to setup, highly configurable, cross browser and plays on desktop, tablet a
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
 1. Upload "CodoPlayer" to the "/wp-content/plugins/" directory
 2. Activate the plugin through the "Plugins" menu in WordPress
 3. Go to "Tools -> Codo Player"
 
 == Frequently Asked Questions ==
 
-= How to embed a generated Codo Player snippet
+Q: How to embed a generated Codo Player snippet
 
-Simply, copy the snippet code generated. Go to "Posts -> New/Edit post". In an editor select "Text" view, paste the snippet code and save it. All ready!
+A: Simply, copy the snippet code generated. Go to "Posts -> New/Edit post". In an editor select "Text" view, paste the snippet code and save it. All ready!
 
 For more information visit http://codoplayer.com
 
