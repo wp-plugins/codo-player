@@ -209,7 +209,7 @@ function DesignerCtrl($scope, $http) {
         var changedArr = [];
         for (var i in allArr) {
             var key = allArr[i];
-            if ($scope.currSettings[key] && $scope.StringToBoolean($scope.currSettings[key]) !== $scope.initSettings[key]) {
+            if ($scope.currSettings[key] != null && $scope.StringToBoolean($scope.currSettings[key]) !== $scope.initSettings[key]) {
                 switch (key) {
                     case "volume":
                         if ($scope.currSettings[key] !== $scope.initSettings[key]) {
