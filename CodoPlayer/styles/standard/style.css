@@ -4,7 +4,8 @@
 */
 
 .codo-player {
-	visibility: visible!important; /* system specific - do not remove this line! */
+	visibility: visible!important;
+	opacity: 1;
 	font: 14px Arial;
 	letter-spacing: 2px;
 	color: white;
@@ -93,6 +94,7 @@
 
 .codo-player-controls-hd-text.active {
 	font-weight: bold;
+	text-shadow: 0px 0px 8px white;
 }
 
 /* Volume slider */
@@ -139,6 +141,12 @@
 
 .codo-player-controls-volume-handle:hover {
 	background: #eee;
+}
+
+.codo-player-controls-volume-handle:active {
+	-moz-box-shadow: 0px 0px 8px white;
+  	-webkit-box-shadow: 0px 0px 8px white;
+  	box-shadow: 0px 0px 8px black;
 }
 
 /* Fullscreen button */
@@ -206,6 +214,7 @@
 	height: 120px;
 	line-height: 120px;
 	vertical-align: middle;
+	text-shadow: 0px 0px 100px #000;
 }
 
 .codo-player-overlay-play-button:hover {
@@ -278,5 +287,3 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
-/*

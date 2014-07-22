@@ -1,4 +1,4 @@
-Codo Player Free 2.0
+Codo Player Free 2.1
 Copyright (C) Donato Software House
 
 
@@ -8,7 +8,7 @@ By modifying Codo Player Free, you agree:
 Not to remove Codo Player logo and copyright notices from user interface.
 Not to apply custom branding anywhere on player canvas.
 Not to break Codo Player client side validation functionality.
-Use Codo Player Free for personal or educational use only.
+Use Codo Player Free for non-commercial purpose only.
 
 
 GNU GENERAL PUBLIC LICENSE
