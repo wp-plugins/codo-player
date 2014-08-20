@@ -181,6 +181,14 @@
 	width: 100%;
 	cursor: pointer;
 	background: #454545;
+	-webkit-transition: all 200ms;
+    -moz-transition: all 200ms;
+    -o-transition: all 200ms;
+    transition: all 200ms;
+}
+
+.codo-player-controls-seek:hover {
+	height: 8px;
 }
 
 .codo-player-controls-seek-buffer-bar {
