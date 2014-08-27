@@ -12,16 +12,16 @@
 			CodoPlayer({
 				title: "Title here",
 				poster: "poster.jpg",
-				src: "relative://example/video.mp4"
+				src: "relative://example/video.mp4" // Absolute URL recommended. For example "http://example/video.mp4"
 			}, {
-				width: 400,
-				height: 225,
+				width: 600, // Remove width & height keys for responsive behaviour
+				height: 338,
 				volume: 80,
 				preload: false
 				/* For more settings visit http://codoplayer.com/configuration/ */
 			});
 		</script>
-		<p>If the video does not play, copy Codo Player package into a local/remote server. It fully operates in server environment.</p>
+		<p>If video does not play, copy Codo Player package into a local/remote server. It fully operates in server environment.</p>
 	</body>
 </html>
 
