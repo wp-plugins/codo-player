@@ -8,7 +8,7 @@
     You should have received a copy of the GNU General Public License along with Codo Player.
     If not, see <http://www.codoplayer.com/policy/license/free>.
 
-    Date: 08 09 2014
+    Date: 11 09 2014
 
     Copyright (C) Donato Software House
 */
